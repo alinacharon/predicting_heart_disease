@@ -50,7 +50,7 @@ LogisticRegressionCV Model:
 
 ## 📈 Overall Performance:
 
-The model reliably predicts heart disease and achieves an AUC of 0.91 (ROC Curve) and AP of 0.91 (Precision-Recall Curve).
+The model reliably predicts heart disease and achieves an AUC of 0.96 (ROC Curve) and AP of 0.97 (Precision-Recall Curve).
 
 **Areas for Improvement**
 
